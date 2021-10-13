@@ -53,7 +53,7 @@ if (isNaN(max)) {
 // }
 
 
-
+let firstName = hadi;
 
 
 
